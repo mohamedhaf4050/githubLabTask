@@ -9,7 +9,7 @@ def divide(): #Member 4
 def mod(a , b): #Member 5
     return a % b
 
-def divide(): 
+def divide():
     try:
         num1 = float(input("Enter the first number: "))
         num2 = float(input("Enter the second number: "))
@@ -18,5 +18,7 @@ def divide():
         
     except ValueError:
         print("Error: Invalid input. Please enter valid numbers.")
+
+
 
 
