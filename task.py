@@ -1,8 +1,13 @@
+
+def multiply(): #Member 3
+    print(3*3)
+    
 def add(x,y):  #Julia Nader
     total = x+y
     return total
 
 def subtract(a,b): #Member 2
+master
     pass
     return a - b
 
@@ -11,10 +16,6 @@ num2 = float(input("Enter the second number: "))
 
 result = subtract(num1, num2)
 print("The result of subtracting", num2, "from", num1, "is:", result)
-
-
-def multiply():  # Member 3
-    pass
 
 
 def divide():  # Member 4
