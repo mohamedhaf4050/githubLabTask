@@ -15,7 +15,8 @@ def multiply(): #Member 3Saher
     
 
 def divide(): #Member 4
-    pass
-def mod(): #Member 5
-    pass
+    number_1 = float(input("Enter First Number: "))
+    number_2 = float(input("Enter Second Number: "))
+    result = number_1 / number_2
+    print("The Result of Dividing Two Number is : " + result)
 
