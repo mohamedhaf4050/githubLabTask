@@ -1,6 +1,6 @@
-def add():  # Member 1
-    pass
-
+def add(x,y):  #Julia Nader
+    total = x+y
+    return total
 
 def subtract():  # Member 2
     pass
