@@ -7,5 +7,7 @@ def multiply(): #Member 3
 def divide(): #Member 4
     pass
 def mod(): #Member 5
-    pass
+    num1 = int(input("Enter num:"))
+    num2 = int(input("Enter num: "))
+    print(num1 + " % " + num2 + " = " + str(num1 % num2))
 
