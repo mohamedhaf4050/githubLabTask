@@ -6,6 +6,6 @@ def multiply(x, y): #Member 3 - Mahmoud El Goahry
     return x * y
 def divide(): #Member 4
     pass
-def mod(x,y): #Member 5
-    return x%y
+def mod(): #Member 5
+    pass
 
