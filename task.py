@@ -4,11 +4,18 @@ def add(): #Member 1
     print("The result: ", a + b)
     pass
 def subtract(): #Member 2
-    pass
-def multiply(): #Member 3
-    pass
+    num1 = int(input("Enter the first number: "))
+    num2 = int(input("Enter the second number: "))
+    result = num1 - num2
+    print(num1 + " - " + num2 + " = " + result)
+def multiply(): #Member 3Saher
+    x=int(input())
+    y=int(input())
+    print(x*y)
+    
+
 def divide(): #Member 4
     pass
 def mod(): #Member 5
-    passs
+    pass
 
