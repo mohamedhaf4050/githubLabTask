@@ -10,6 +10,10 @@ def subtract(): #Member 2
     print(num1-num2)
 
 def multiply(): #Member 3
+    num1 = int(input("Enter your number 1: "))
+    num2 = int(input("Enter your number 2: "))
+    result= num1*num2
+    return result
     pass
 def divide_numbers():
     num1 = float(input("Enter the first number: "))
