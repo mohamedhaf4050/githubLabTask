@@ -1,5 +1,10 @@
 def add(): #Member 1
     pass
+Thefirstvalue= int(input("Enter the first value:"))
+Thesecondvalue= int(input("Enter the second value:"))
+
+Theaddition= Thefirstvalue + Thesecondvalue
+print("The sum is:", str(Theaddition))
 def subtract(): #Member 2
     pass
 def multiply(): #Member 3
@@ -13,8 +18,3 @@ def divide(): #Member 4
 def mod(): #Member 5
     pass
 
-Thefirstvalue= int(input("Enter the first value:"))
-Thesecondvalue= int(input("Enter the second value:"))
-
-Theaddition= Thefirstvalue + Thesecondvalue
-print("The sum is:", str(Theaddition))
