@@ -1,5 +1,8 @@
 def add(): #Member 1
-    pass
+    n1 = int(input("Enter The first number: "))
+    n2 = int(input("Enter The second number: "))
+    res = n1 + n2
+    return res
 def subtract(): #Member 2
     print("subtract 2 numbers")
     num1 =float(input("enter first number"))
