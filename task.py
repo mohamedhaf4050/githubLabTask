@@ -4,6 +4,8 @@ def subtract(a, b): #Member 2
     return a - b  
 def multiply(): #Member 3
     pass
+def multiply(a,b): #Member 3
+    return a*b
 def divide():
     try:
         num1 = float(input("Enter the first number: "))
