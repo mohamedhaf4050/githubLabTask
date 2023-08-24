@@ -1,4 +1,4 @@
 
-def divide(): #Member 4
-    pass
+def divide(a,b): #Member 4
+    return a/b
 
