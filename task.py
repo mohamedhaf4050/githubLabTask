@@ -6,6 +6,6 @@ def multiply(): #Member 3
     pass
 def divide(): #Member 4
     pass
-def mod(): #Member 5
-    pass
+def mod(a , b): #Member 5
+    return a % b
 
