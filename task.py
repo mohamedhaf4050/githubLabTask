@@ -1,4 +1,5 @@
-def add(): #Member 1
+def add(a,b): #Member 1
+    return a+b
     pass
 def subtract(): #Member 2
     pass
