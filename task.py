@@ -12,6 +12,7 @@ def multiply():  # Member 3
 
 def divide():  # Member 4
     print(6/2)
+    print(10/5)
 
 
 def mod():  # Member 5
