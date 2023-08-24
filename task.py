@@ -1,7 +1,7 @@
 def add(a,b): #Member 1
     return a+b
-def subtract(): #Member 2
-    pass  
+def subtract(a, b): #Member 2
+    return a + b  
 def multiply(): #Member 3
     pass
 def divide(): #Member 4
@@ -22,3 +22,6 @@ def divide():
 
 
 
+
+
+#
