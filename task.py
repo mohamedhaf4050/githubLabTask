@@ -9,3 +9,4 @@ def divide(): #Member 4
 def mod(): #Member 5
     pass
 
+def exp() :member 6
